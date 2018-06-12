@@ -1,0 +1,42 @@
+{
+  "title": "EOSYS",
+  "tagline": {
+    "en": "Vitalizing the EOS Ecosystem.",
+    "zh": "激发EOS生态."
+  },
+  "introduce": {
+    "en": "The first Korean Block Producer Candidate EOSYS has been dedicated to the community since we made EOSscan.io in June, 2017. EOSYS looks forward to making major contributions to EOS community. Solid Infrastructure:  Starting from EOSscan.io, we've been conducting researches on EOSIO and developing a block explorer (future EOSscan.io). DApp Incubation:  We support various DApp startups by providing investment opportunities and technical supports/consultancy. Community Building:  We interact with powerful community leaders and curious newcomers 24/7. Recently we launched EOS Evangelist Group(EEG) to lead meaningful discussions.",
+    "zh": "从2017年6月我们开发的EOSscan.io面世以来，作为韩国首个节点候选人，EOSYS持续贡献到EOS生态。EOSYS期待着能够为EOS生态贡献出我们的力量。稳定的基础设施：从EOSscan.io开始，我们对EOSIO进行调查，并且在开发一个区块浏览器（xn--eosscan-lw5otqw26j.io）。DApp孵化：我们通过提供投资机会和技术上的支持以及咨询服务支持多个DApp的孵化。社区建设：我们一天24小时与多个社区领导层和新手交流，我们最近开始了EOS Evangelist Group(EEG)，来达到生态参与者进行有价值的讨论的目标。"
+  },
+  "account_name": "eosyskoreabp",
+  "public_key": "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
+  "org": {
+    "name": "EOSYS",
+    "website": "http://eosys.io/",
+    "email": "eosys@eosys.io",
+    "branding":{
+      "logo": "logo-$eosyskoreabp.png",
+      "cover": "cover-$eosyskoreabp.png"
+    },
+    "location": "Seoul, South Korea",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosys/",
+      "twitter": "https://twitter.com/EOSYS_IO",
+      "facebook": "",
+      "github": "https://github.com/EOSYS-io",
+      "telegram": "https://t.me/EOSYSIO"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "81",
+        "name": "Japan"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
